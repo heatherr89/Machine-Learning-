@@ -19,4 +19,4 @@ Looked at the components attributes coefficients which let us know the most impo
   - Benefits
 Then the reduced data  was added to the model with a 42% accuracy
 Identified which component was better at predicting the model
-- Component 3 
+  - Component 3 
